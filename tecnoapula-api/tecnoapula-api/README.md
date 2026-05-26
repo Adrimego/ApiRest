@@ -21,7 +21,7 @@ tecnoapula-api/
 
 ---
 
-## 🚀 Instalación y puesta en marcha
+## Instalación y puesta en marcha
 
 ```bash
 # 1. Instalar las dependencias
